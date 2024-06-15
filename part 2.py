@@ -78,8 +78,6 @@ def reconstruct_image(img, n_components):
     return img_pca
 
 
-
-
 path = "image_lab2.png"
 bw = vector_image(path)
 
